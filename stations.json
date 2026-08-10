@@ -1,0 +1,132 @@
+{
+  "name": "Operation Nottuln 29",
+  "stations": [
+    {
+      "id": 1,
+      "title": "Station 1",
+      "lat": 51.500404017863644,
+      "lon": 6.790650735805529,
+      "radius": 100,
+      "description": "Willkommen bei Station 1. Finde das rote Schild. ",
+      "hints": [
+        "Hinweis 1.1: Schau nach dem roten Schild.",
+        "Hinweis 1.2: Suche die Eiche."
+      ],
+      "task": {
+        "type": "mcq",
+        "question": "Welche Farbe hat das Schild?",
+        "options": [
+          "a) Rot",
+          "b) Blau",
+          "c) Grün"
+        ],
+        "answer": "a"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Station 2",
+      "lat": 51.5005202165419,
+      "lon": 6.790801269709406,
+      "radius": 60,
+      "description": "Station 2: Löse die Aufgabe. , ",
+      "hints": [
+        "Hinweis 2.1: Folge dem Kopfsteinpflaster."
+      ],
+      "task": null
+    },
+    {
+      "id": 3,
+      "title": "Station 3",
+      "lat": 51.918,
+      "lon": 7.418,
+      "radius": 40,
+      "description": "Station 3: Beobachte das Haus.",
+      "hints": [
+        "Hinweis 3.1: Schau nach oben."
+      ],
+      "task": {
+        "type": "mcq",
+        "question": "Wie viele Fenster hat das Haus?",
+        "options": [
+          "a) 2",
+          "b) 3",
+          "c) 4"
+        ],
+        "answer": "b"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Station 4",
+      "lat": 51.919,
+      "lon": 7.419,
+      "radius": 40,
+      "description": "Station 4",
+      "hints": [],
+      "task": null
+    },
+    {
+      "id": 5,
+      "title": "Station 5",
+      "lat": 51.92,
+      "lon": 7.42,
+      "radius": 40,
+      "description": "Station 5",
+      "hints": [],
+      "task": null
+    },
+    {
+      "id": 6,
+      "title": "Station 6",
+      "lat": 51.921,
+      "lon": 7.421,
+      "radius": 40,
+      "description": "Station 6",
+      "hints": [],
+      "task": null
+    },
+    {
+      "id": 7,
+      "title": "Station 7",
+      "lat": 51.922,
+      "lon": 7.422,
+      "radius": 40,
+      "description": "Station 7",
+      "hints": [],
+      "task": null
+    },
+    {
+      "id": 8,
+      "title": "Station 8",
+      "lat": 51.923,
+      "lon": 7.423,
+      "radius": 40,
+      "description": "Station 8",
+      "hints": [],
+      "task": null
+    },
+    {
+      "id": 9,
+      "title": "Station 9",
+      "lat": 51.924,
+      "lon": 7.424,
+      "radius": 40,
+      "description": "Station 9",
+      "hints": [],
+      "task": null
+    },
+    {
+      "id": 10,
+      "title": "Station 10",
+      "lat": 51.925,
+      "lon": 7.425,
+      "radius": 40,
+      "description": "Letzte Station. Gut gemacht!",
+      "hints": [
+        "Letzter Hinweis"
+      ],
+      "task": null
+    }
+  ]
+}
